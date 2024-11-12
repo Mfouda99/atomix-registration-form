@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Successful</title>
+    {% load static %}
+    <style>
+        /* Load custom font */
+        @font-face {
+            font-family: 'Good Times';
+            src: url('{% static "fonts/mouldy.ttf" %}') format('opentype');
+        }
+
+        /* Style the body to take up the full screen with background image */
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: 'Good Times', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #005254;
+            background-image: url('{% static "image/tnt.png" %}');
+            
+            background-size: cover;
+            color: white;
+            text-align: center;
+            background-size: 700px;
+           
+        }
+
+        /* Header styling */
+        .header {
+            background: rgba(0, 0, 0, 0.6); /* Slight overlay to improve text readability */
+            padding: 40px 40px;
+            border-radius: 20px;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Shadow for 3D effect */
+        }
+
+        .header h1 {
+            font-size: 3.5em;
+            margin: 0;
+            padding: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-weight: bold;
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .header p {
+            font-size: 1.5em;
+            color: white;
+            margin: 10px 0;
+            z-index: 2;
+        }
+
+        .header p1 {
+            font-size: 2em;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+
+        .header p2 {
+            font-size: 2em;
+            margin: 10px 0;
+            font-weight: bold;
+            color: white; /* Lively color for the love message */
+        }
+
+        /* Header Image Styling */
+        .header-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .header-image {
+            max-width: 200px;
+            margin-top: 30px;
+            animation: bounce 1s infinite alternate;
+        }
+
+        /* Add a subtle bounce animation to the logo */
+        @keyframes bounce {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(-10px); }
+        }
+
+    </style>
+</head>
+<body>
+    {% load static %}
+
+    <div class="header">
+        <h1>You Registered Successfully</h1>
+        <div class="header-content">
+            <p1>OC</p1>
+            <img src="{% static 'image/oclogo.png' %}" alt="OC Logo" class="header-image">
+            <p2>Loves You <3</p2>
+        </div>
+    </div>
+</body>
+</html>

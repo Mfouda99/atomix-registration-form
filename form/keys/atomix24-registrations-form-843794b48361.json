@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "atomix24-registrations-form",
+  "private_key_id": "843794b48361f2b6c06a42361cb659b77b447807",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCe8b1jVzVRrKxO\nDVvJP+nF9+ED6UHel0PGw39LLhMBs9tFTOh+SCgCy0IjLxoJW5NPXiaGkuqnnej3\nIWcts/ZDK6s5hzXTOumIhngflpktZS934Y9gfoJZbpsxey83c2mPQvzlSxqKF68Z\nM/G64vRpBsfFJqRFOep4DddyyeRJGSj/XNSNan0ICUS5C20FRGZAOBjuOJMy9zrF\nFB/0H6J4p79ET9REtk2djqrjcqLIXGONjCyzNvqlpW4V+qYXjth4LSp0pjkNMadr\n/JGuNJ8CB7VMJ1wIw3Ed9lGcVjzhBxn5zvRKWISt8OjsCjBasRPp20wrmAvjLHto\nUha1Y9WLAgMBAAECggEARcEOnh3EMxtmJPz81qX7eNuvvzErrL3Sy1S5tSs7wSgH\nJ3M4p08QbCV62YkO0qODUzYdDztDyxrkhix9JRQRE+qCwwUBTLnSio2FA0vq3n7F\nJcXyT+VFXG1Lo5wNnTbD0VETPqfGtmrtd9CRmjSHEd6dZnruZckkitp8Po625pL3\nuSGMnkrdFzwPMFYxCEK2BxYT/jg1vKNCgjh1swYr5t9EgBzo5aQpJbnB8rWSQYeG\nXtqdFiuZfnq8MH2WvnEC7AXlI7QFNsa8lkpeTn/Mhvr0bCEs1QzTOhPI3t1t/e2a\nbXJIikrbDvXtrb+iEEyE0HR4UWaNlkT0QuN8VcLw1QKBgQDe4dNB85wCJD+/A967\no852d0p3b13f10tQe19QPH2OLWEGKph9g+IMNADo4eFzLHOfAWZFI5sGPvDKxlQK\nbWaRS5Ln+Q7zsblLqJL0aTQhnq7L6o8dPz+UHKm5XAoaTYf6DF1HtX5pQwsSUQpi\nT65T7C5WWvtJl2rf28slqSg1RQKBgQC2j8tcUPndD2ZUAbM+KRJw61eaWHV9eoD/\nrTsRL+yI9xYvCXWtfIvU6ai/eD28qK3rzQ6kkjTh0fHY3p8mzTBFq3C/2pwePp5i\nQrrVSa7LLtQQVbPPtA3L3O9XdgPzcXxfB3oacpklYjXz+x7aO7XuQwu7vivKUAqp\nGg5sRcUEjwKBgCHwybb1XgCFfJ+d+0EfxMUNjW16rBT2OCXdY7pYO9Z22puRyP70\nImwxTyIno6liT4kbMXO95FGjLA/0+79KwZ/Gnmxs5PX/TnRTC23kx2eHPp8W7QxL\nIWdwpffwKCmxPM+7KklNPh7RctIrPSWTdLya7sN/v1yJjmDgm6L0i4bxAoGAEhe4\nIMMJsEXZb1Pnzq5FXJmGSg6gPjpI1I33f6GPQJe0RB8c4X+pYAV0Kt2gyLSy396n\np9mxkfu7izGs9ix5rz3pY6ontLuh+L0CRScTQqG2dJP5yQjgIScZNULF63eAyu4z\nxLE8yj6seCyYByrJwf41CHs1XcyG8fFaIpLbjrMCgYAIiLqa/dl3FG8fefhj3MV3\n2fKWgDAGuahhJGygWuKXvnovSiN12/Wot6zbBkia/sGOIs0W319Ze59XhDvr50xv\n8uW1Kqm2vxdgAMOIfhMFizDFWdaGOatuAC38m7Z6Z+7QrpEIi35I0r1W6Qebf/Zx\nnLka8mv4WKAJz2wpLC1H7Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "atomix24@atomix24-registrations-form.iam.gserviceaccount.com",
+  "client_id": "108781843532707275852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atomix24%40atomix24-registrations-form.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
