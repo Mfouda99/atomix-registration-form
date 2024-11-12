@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "atomix-24-form",
+  "private_key_id": "31fd0de5e402d319049f75f0d1988df71e7c6f24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDDJS7ndHqCwSP/\n+jjHP3MS7egv7EWvPh8ANDp8sLMh9cEvt/Lm/+UDHHetzqec70s+T1gV0GjJ1E9B\n5qDipr+8X0MrMCVp0M4tVROxz8m2/4HJNKMldoEYwLS2J6FOVIclMwzEOxcyLqya\nXY1OVpXxhLGGyIr6lqst4xDRiBn6YLrHnye4ayFeZvyPX5cmJR7Shi0+gI9RQtcX\nb70cLxXRc6rww/sjOvEU7X/bziiw/KprHpwkk25lf1jE2GjNBptkWpTqtIVDQrT7\nyanvC+OZ+J8WVjHCDqbBhMfbTz945Yf4hPjqO+K2UgiFdXESzliYktBYHybl6eDE\nIjSJvkTHAgMBAAECggEAIZtpOP4jzRnjD8Xxekrwj+1946bul0/8+cWE3w11RB91\nLjkhMWwXbhI8gCfLUOkbDbePZW5XZY7VOXW09mOeOJw1Tp5DizYlE8SHmEM/K29U\nVCjnAeAnOnKRjJ9Fld5TyfHBPJgqlf9YxVrgJ4Ic35OpGRu3Z5GEGGp27obgZnBu\nH+zOkoDdkjJP+axlvmjiNnySotr1azUuaCQGqwnElnrYzofRmh4cwVj5z1abcpw2\njYwZXBYerU1zh0fkJ6NjXUn9jMkjved/L6SMzmb/Zi254rPkX2oOwcvqNRHvg9no\nev0KT18ZkCj5XsBQHmZeMv7kKh6CaDQhWvJQxJwy9QKBgQDoIWoXlp19COQRtZQX\nW8gIh5IGNsCMJr6aLSO1B4N9A71HeAJprrxhfYPu46WkrWCvH/Q3Ny4mlf+uP1M2\nIcI3mXkA1j9QKHXpUT7DyueKOOu9X6wqj/Jjy+/9azmF/UNoOgVgjLUfwsPDl/sD\nA+ftdoDKIXB19HI16enFnYaTSwKBgQDXNivXxYu5+KGi3q+Oj5GvDCQQuWSe2e/F\nQrOUPhPivbwHpYQhjhYLmDwqLc2Q28awJHGsp6NAxQFgcsaGAHt5EG1nskZP1Zpt\nn6N293OdovBHPVfoBhYWkvHduqvX2+LOMYePpWhYtALpGx8dgnzX0Rrmj4j4cXvO\nNjy/1Lsq9QKBgQDlhvTCcjkzQzFQmXzfQ++dD4BCCK2HZ2AcTvn5rH5FhQcJvg6U\ntSSsOVHVSt+k35K0VyJB3pwRp0vz3cXHxsWl+Gj/fNmJxxggJierrdwYfoQK8qjo\nRQFl0Gdy6y0r4etfCc/7UeZei1TK+GJI7vnLgduDAmGTIKw1xx9SOZqx1QKBgQC9\nDlWNg3ivsn8r+Lv4XJ76S4wTNQnzkjhT7bib7bzCXzMi9IASiiNLpDyWQQ5oxujQ\nK/PAXLPJXkdLVwiXBy1wuMGjarThxR+YVbjf9ZmXTWAO9RCYP2CADC51PltfkUa5\nJEGWKxRzeA9mf/Dhl5Pcc1FSYZ1Nw0Ojb3oGevbBUQKBgQC/29cexcW46cnar3wM\nTE88jegsF+vx6kelDcoqYfLakNZ8W60UoVcYHFS06Vfl4zqTapt3M2CDpWEM1z99\nyLuY84nZsIo1oNoUUSocXhRM3ZI9Syu3VrVALSGjYyY/Y+m7HP7JVRN7uArjQHCR\nZojVjhM0s3yRwQU5/PSblm9u/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "atomix-24-form@atomix-24-form.iam.gserviceaccount.com",
+  "client_id": "108761182691923528223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atomix-24-form%40atomix-24-form.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
